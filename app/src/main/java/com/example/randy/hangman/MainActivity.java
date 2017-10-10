@@ -46,7 +46,7 @@ public class MainActivity extends AppCompatActivity {
         });
 
 
-        //test sentence
+        
         LinearLayout linearLayout = (LinearLayout)findViewById(R.id.weeb);
         linearLayout.addView(textView);
         linearLayout.addView(editText);
